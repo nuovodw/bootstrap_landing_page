@@ -87,3 +87,16 @@
 .course {
 	background-color: rgb(225, 240, 246);
 }
+
+.pricing .card1 {
+	background: rgb(190, 235, 231);
+}
+.pricing .card:hover {
+	-webkit-box-shadow: 8px 8px 14px -7px rgba(117, 117, 117, 0.98);
+	box-shadow: 8px 8px 14px -7px rgba(117, 117, 117, 0.98);
+	transition: 0.5s;
+}
+
+footer {
+	background: rgb(225, 240, 246);
+}
